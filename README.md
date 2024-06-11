@@ -7,6 +7,6 @@ The main class is the AbstractModelTrainer class of the AbstractTrainer file. It
 
 An example of use is given in the main.py file
 
-
-
-Translated with www.DeepL.com/Translator (free version)
+System had been tested on HAI and SWAT datasets. 
+HAI: https://www.kaggle.com/datasets/icsdataset/hai-security-dataset
+SWAT: alas, there's no link
